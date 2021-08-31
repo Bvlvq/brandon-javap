@@ -34,13 +34,13 @@ public class Assignment3 {
 		
 		// print "Command Options:"  and options "a-f, q"
 		System.out.println("Command Options:");
-		System.out.println("Option a: checks if the length of the two strings are the same.");
-	    System.out.println("Option b: checks if two strings are same or different.");
-	    System.out.println("Option c: checks which string is lexically larger, or if they are same");
-	    System.out.println("Option d: prints out the first character (index 0) of each string");	        
-	    System.out.println("Option e: prints out a new string consisting of the first string concatenated (appended) with the second string.");
-	    System.out.println("Option f: prints out two strings using upper case letters.");
-	    System.out.println("Option q: quit the program.");
+		System.out.println("A: checks if the length of the two strings are the same.");
+	    System.out.println("B: checks if two strings are same or different.");
+	    System.out.println("C: checks which string is lexically larger, or if they are same");
+	    System.out.println("D: prints out the first character (index 0) of each string");	        
+	    System.out.println("E: prints out a new string consisting of the first string concatenated (appended) with the second string.");
+	    System.out.println("F: prints out two strings using upper case letters.");
+	    System.out.println("G: quit the program.");
 	    
 	    
 	    // complete action based on the option that is chosen
